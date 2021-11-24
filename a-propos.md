@@ -18,6 +18,16 @@ Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le pl
 
 ###  Théière en grès de Treigny
 
+Il s'agit d'une terre naturelle qui vient de Bourgogne. Elle est plutôt dure (2,5% de porosité) et aura tendance à légèrement arrondir les saveurs du thé. Le grès de Treigny contient 3,33% d'oxyde fer. C'est pour cette raison, qu'une fois cuitent, les théières prennent cette teinte brune.
+
+### Théière en grès de St Amand
+
+Le grès de St Amand, est une argile naturelle, produite dans la région de "Puisaye ", en Bourgogne. Cette argile est relativement dense : 0,9% de porosité. Une fois cuite, elle prend un aspect grisé, proche de certains galets que l'on peut trouver sur les plages Normandes.
+
+### La terre de Baillet
+
+Il s'agit d'une terre reconnue pour sa résistance aux chocs thermiques. Elle est fabriquée dans le centre de la France depuis plus de 100 ans. Cette terre est essentiellement destinée à l'usage des verriers, dans la fabrication des creusets. Personnellement, je la destine à la réalisation des brasero.
+
 ## Mes émaux
 
 La recherche d'émaux prend une place importante dans mon travail.
@@ -25,4 +35,12 @@ Bien que la terre brute serve de manière intéressante les théières, pour les
 l'émaillage participe grandement à l'intention et au caractère que je souhaite donner à une pièce.
 Je suis à la recherche d'un rendu le plus vivant possible.
 Chaque émail, est le fruit d'une recherche spécifique.
-Chaque année, je complète ma formation pour continuer à avancer dans ce domaine. 
+Chaque année, je complète ma formation pour continuer à avancer dans ce domaine.
+
+## La cuisson des théières artisanales en terre brute ou émaillées
+
+Dans la céramique, le mode de cuisson influence énormément le rendu des pièces.
+Tout comme le façonnage ou l'émaillage, la cuisson est un domaine à part entière, qui nécessite de l'expérience pour arriver à "apprivoiser " le feu.
+En ce qui me concerne, je profite de chaque cuisson pour chercher à comprendre ce qui se passe dans le four et approfondir mes connaissances dans ce domaine et poursuivre mes recherches...
+J'utilise un four à gaz, et cuis en atmosphère réductrice, c'est à dire, qu'à partir de 950°C je vais réduire la présence d'oxygène dans le four. Ce phénomène va demander aux flammes, de venir chercher à l'intérieur de la terre, l'oxygène dont elles ont besoin pour subsister.
+Il résulte de ce procédé, un rendu plus vivant, moins uniforme sur les pièces. Les émaux vont montrer des nuances différentes d'une pièce à l'autre, et la terre aura un caractère plus prononcé.
