@@ -23,11 +23,12 @@ Il s'agit d'une terre reconnue pour sa résistance aux chocs thermiques. Elle es
 ## Mes émaux
 
 La recherche d'émaux prend une place importante dans mon travail.
-Bien que la terre brute serve de manière intéressante les théières, pour les yunomi et les bols à thé, c'est une autre histoire.
+Bien que la terre brute serve de manière intéressante les théières, j'aime bien utiliser l'émail pour donner singularité aux pièces.
 l'émaillage participe grandement à l'intention et au caractère que je souhaite donner à une pièce.
 Je suis à la recherche d'un rendu le plus vivant possible.
+J'utilise principalement de la cendre de vigne et de chêne comme matières premières
 Chaque émail, est le fruit d'une recherche spécifique.
-Chaque année, je complète ma formation pour continuer à avancer dans ce domaine.
+Tous mes émaux réspectent la réglementation sur les matériaux en contact avec les denrées alimentaires.
 
 ## La cuisson des théières artisanales en terre brute ou émaillées
 
