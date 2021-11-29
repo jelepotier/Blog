@@ -1,22 +1,13 @@
 # Fabriquer pour vous des ustensiles à thé est mon travail
 
-Je consacre mon travail au domaine du thé. Je l'explore par une pratique quotidienne, pour que l'expérience se transforme en qualités concrètes et utiles pour les pièces. Je fabrique des théières artisanales, des bouilloires en terre, des bateaux à thé, des jarres à thé, des bols à thé... avec le sens du détail et le plaisir de la précision, pour que vous puissiez profiter pleinement de vos "instants thé".
+Je consacre mon travail au domaine du thé. Je l'explore par une pratique quotidienne, pour que l'expérience se transforme en qualités concrètes et utiles pour les pièces. Je fabrique artisanalement tous les styles d'infuseurs, mais aussi, des bouilloires, des brasero, des jarres à thé, des bols à thé... avec le sens du détail et le plaisir de la précision, pour que vous puissiez profiter pleinement de vos "instants thé".
 
-Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le plan humain. Le chemin qui reste à parcourir est immense, mais inspirant, plein de promesses et de mystères. Je m'y engage avec reconnaissance envers la vie et envers vous qui me faites confiance. Avec tout mon enthousiasme. Jé
+Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le plan humain. Le chemin qui reste à parcourir est inspirant, plein de promesses et de mystères. Je m'y engage avec séreux et envie.
+Merci à vous qui me faites confiance. Avec tout mon enthousiasme. Jé
 
 ## Les terres utilisées pour les théières artisanales
 
 ### Théière en grès de Treigny
-
-# Fabriquer pour vous des ustensiles à thé est mon travail
-
-Je consacre mon travail au domaine du thé. Je l'explore par une pratique quotidienne, pour que l'expérience se transforme en qualités concrètes et utiles pour les pièces. Je fabrique des théières artisanales, des bouilloires en terre, des bateaux à thé, des jarres à thé, des bols à thé... avec le sens du détail et le plaisir de la précision, pour que vous puissiez profiter pleinement de vos "instants thé".
-
-Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le plan humain. Le chemin qui reste à parcourir est immense, mais inspirant, plein de promesses et de mystères. Je m'y engage avec reconnaissance envers la vie et envers vous qui me faites confiance. Avec tout mon enthousiasme. Jé
-
-## Les terres utilisées pour les théières artisanales
-
-###  Théière en grès de Treigny
 
 Il s'agit d'une terre naturelle qui vient de Bourgogne. Elle est plutôt dure (2,5% de porosité) et aura tendance à légèrement arrondir les saveurs du thé. Le grès de Treigny contient 3,33% d'oxyde fer. C'est pour cette raison, qu'une fois cuitent, les théières prennent cette teinte brune.
 
@@ -40,7 +31,7 @@ Chaque année, je complète ma formation pour continuer à avancer dans ce domai
 ## La cuisson des théières artisanales en terre brute ou émaillées
 
 Dans la céramique, le mode de cuisson influence énormément le rendu des pièces.
-Tout comme le façonnage ou l'émaillage, la cuisson est un domaine à part entière, qui nécessite de l'expérience pour arriver à "apprivoiser " le feu.
+Tout comme le façonnage ou l'émaillage, la cuisson est un domaine à part entière, qui nécessite de l'expérience. C'est la dernière étape qui mène à la pièce finie.
 En ce qui me concerne, je profite de chaque cuisson pour chercher à comprendre ce qui se passe dans le four et approfondir mes connaissances dans ce domaine et poursuivre mes recherches...
 J'utilise un four à gaz, et cuis en atmosphère réductrice, c'est à dire, qu'à partir de 950°C je vais réduire la présence d'oxygène dans le four. Ce phénomène va demander aux flammes, de venir chercher à l'intérieur de la terre, l'oxygène dont elles ont besoin pour subsister.
 Il résulte de ce procédé, un rendu plus vivant, moins uniforme sur les pièces. Les émaux vont montrer des nuances différentes d'une pièce à l'autre, et la terre aura un caractère plus prononcé.
