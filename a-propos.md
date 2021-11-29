@@ -3,7 +3,8 @@
 Je consacre mon travail au domaine du thé. Je l'explore par une pratique quotidienne, pour que l'expérience se transforme en qualités concrètes et utiles pour les pièces. Je fabrique artisanalement tous les styles d'infuseurs, mais aussi, des bouilloires, des brasero, des jarres à thé, des bols à thé... avec le sens du détail et le plaisir de la précision, pour que vous puissiez profiter pleinement de vos "instants thé".
 
 Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le plan humain. Le chemin qui reste à parcourir est inspirant, plein de promesses et de mystères. Je m'y engage avec séreux et envie.
-Merci à vous qui me faites confiance. Avec tout mon enthousiasme. Jé
+Merci à vous qui me faites confiance. Avec tout mon enthousiasme.
+Jé
 
 ## Les terres utilisées pour les théières artisanales
 
