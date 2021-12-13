@@ -1,9 +1,9 @@
-title: Brut de Thé
+title: Jé le potier
 description: >
-  Collectif qui explore le monde du thé de tradition Chinoise. Nous vous proposons des ressources pour apprendre, approfondir ou découvrir les types de thé : vert, blanc, jaune, wulong, rouge, noir et Pu'Er et les ustensiles : Théière, Gaiwan et autres.
+  Site de vente de céramiques destiné à la préparation et au service du thé traditionnel.
 author: pntbr
 email: pntbr@scopyleft.fr
-repository: brutdethe/site.git
+repository: jelepotier/presentation.git
 
 encoding: UTF-8
 kramdown:
@@ -20,29 +20,6 @@ defaults:
       layout: article
 
 collections_dir: ressources
-
-collections:
-  pages:
-    output: true
-    order:
-      - nos-valeurs.md
-      - faq.md
-      - liens.md
-      - lieux-prevenants.md
-      - contribuer.md
-      - agenda.md
-  base:
-    description: Quelques articles pour se repérer et s'initier au monde du Thé
-    output: true
-  expert:
-    description: Vous trouverez là, des articles variés pour creuser des sujets spécifiques
-    output: true
-  intermediaire:
-    description: Pour aller plus loin
-    output: true
-  traduction:
-    description: Collection d'articles sélectionnés et traduits de l'anglais ou du chinois
-    output: true
 
 plugins:
   - jekyll-remote-theme
