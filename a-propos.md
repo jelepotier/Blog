@@ -30,6 +30,8 @@ Il s'agit d'une terre reconnue pour sa résistance aux chocs thermiques. Elle es
 
 ## Mes émaux
 
+![bols](images/yunomi-bols-à-thé-émaillés.jpg)
+
 La recherche d'émaux prend une place importante dans mon travail.
 Bien que la terre brute serve de manière intéressante les théières, j'aime bien utiliser l'émail pour donner singularité aux pièces.
 l'émaillage participe grandement à l'intention et au caractère que je souhaite donner à une pièce.
