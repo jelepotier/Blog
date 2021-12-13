@@ -70,3 +70,8 @@ Tout comme le façonnage ou l'émaillage, la cuisson est un domaine à part enti
 En ce qui me concerne, je profite de chaque cuisson pour approfondir mes connaissances dans ce domaine et poursuivre mes recherches...
 J'utilise un four à gaz, et cuis en atmosphère réductrice, c'est à dire, qu'à partir de 950°C je vais réduire la présence d'oxygène dans le four. Ce phénomène va demander aux flammes, de venir chercher à l'intérieur de la terre, l'oxygène dont elles ont besoin pour subsister.
 Il résulte de ce procédé, un rendu plus vivant, moins uniforme sur les pièces. Les émaux vont montrer des nuances différentes d'une pièce à l'autre, et la terre aura un caractère plus prononcé.
+
+![cuisson](assets/media/cuisson-reduction.jpg)
+
+A gauche une théière cuite en atmosphère oxydante, et à droite, une théière cuite en atmosphère réductrice.
+Il s'agit de la même terre !
