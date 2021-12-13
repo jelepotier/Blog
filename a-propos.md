@@ -8,13 +8,21 @@ Jé
 
 ## Les terres utilisées pour les théières artisanales
 
-### Théière en grès de Treigny
+### Le grès de Treigny
 
-Il s'agit d'une terre naturelle qui vient de Bourgogne. Elle est plutôt dure (2,5% de porosité) et aura tendance à légèrement arrondir les saveurs du thé. Le grès de Treigny contient 3,33% d'oxyde fer. C'est pour cette raison, qu'une fois cuitent, les théières prennent cette teinte brune.
+Il s'agit d'une terre naturelle qui vient de Bourgogne. Elle est plutôt dure (2,5% de porosité) et aura tendance à légèrement arrondir les saveurs du thé. Le grès de Treigny contient 3,33% d'oxyde fer. C'est pour cette raison, qu'une fois cuitent, les pièces prennent cette teinte brune. J'utilise cette argile pour fabriquer les théières, les kyusu, les hohin, les shiboridashi, les petites jarres à thé.
 
-### Théière en grès de St Amand
+### Le grès de St Amand
 
-Le grès de St Amand, est une argile naturelle, produite dans la région de "Puisaye ", en Bourgogne. Cette argile est relativement dense : 0,9% de porosité. Une fois cuite, elle prend un aspect grisé, proche de certains galets que l'on peut trouver sur les plages Normandes.
+Le grès de St Amand, est une argile naturelle, produite dans la région de "Puisaye ", en Bourgogne. Cette argile est relativement dense : 0,9% de porosité. Une fois cuite, elle prend un aspect grisé, proche de certains galets que l'on peut trouver sur les plages Normandes. J'utilise cette argile pour fabriquer les théières, les kyusu, les hohin, les shiboridashi.
+
+### Le grès porcelainique
+
+Il s'agit d'un grès blanc fabriqué à base de kaolin. cet ajout de kaolin lui confère quelques unes des propriétés de la porcelaine et notament la dureté, puisque la porosité de cette argile est de 0%
+
+### Le grès "120.7"
+
+Cette argile est extraite dans la région de Westerwald en Allemagne, par une entreprise qui possède plus de 200 ans d'expérience dans l'exploitation des argiles. Elle est très agréable à travailler et d'une grande qualité. Il s'agit d'une argile réfractaire que j'utilise pour la fabrication des bouilloires.
 
 ### La terre de Baillet
 
