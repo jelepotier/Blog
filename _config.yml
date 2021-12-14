@@ -1,8 +1,8 @@
 title: Jé le potier
 description: >
   Site de vente de céramiques destiné à la préparation et au service du thé traditionnel.
-author: pntbr
-email: pntbr@scopyleft.fr
+author: Jé le potier
+email: jelepotier@laposte.net
 repository: jelepotier/presentation.git
 
 encoding: UTF-8
@@ -12,12 +12,6 @@ kramdown:
 future: true
 jailed: false
 gfm_quirks: paragraph_end
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: article
 
 collections_dir: ressources
 
