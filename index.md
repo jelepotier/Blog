@@ -13,7 +13,7 @@ Le chemin parcouru est magnifique, tant sur le plan de la matière que sur le pl
 Merci à vous qui me faites confiance. Avec tout mon enthousiasme.
 Jé
 
-## Les terres utilisées pour les théières artisanales
+## Les argiles que j'utilise
 
 ### Le grès de Treigny
 
@@ -51,7 +51,7 @@ Il s'agit d'une terre reconnue pour sa résistance aux chocs thermiques. Elle es
 
 Il s'agit d'un grès de reconstitution très tendre (6,5% de porosité). Les oxydes qui la composent sont : le fer 4,65% et le titane 1,42%. A la cuisson, cette terre prend une teinte rousse et un aspect légèrement rugueux. J'utilise cette terre pour la fabrication des jarres destinées à la conservation des puerh et des thés rouges.
 
-## Mes émaux
+## Les émaux
 
 ![bols](assets/media/yunomi-bols-à-thé-émaillés.jpg)
 
@@ -63,7 +63,7 @@ J'utilise principalement de la cendre de vigne et de chêne comme matières prem
 Chaque émail, est le fruit d'une recherche spécifique.
 Tous mes émaux réspectent la réglementation sur les matériaux en contact avec les denrées alimentaires.
 
-## La cuisson des théières artisanales en terre brute ou émaillées
+## La cuisson
 
 Dans la céramique, le mode de cuisson influence énormément le rendu des pièces.
 Tout comme le façonnage ou l'émaillage, la cuisson est un domaine à part entière, qui nécessite de l'expérience. C'est la dernière étape qui mène à la pièce finie.
