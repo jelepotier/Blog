@@ -3,11 +3,13 @@ layout: page
 title: Jé le Potier
 ---
 
+[Lire cette page en français](/)
+
 # Making tea pottery for you is my job
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3W9g7_UAsrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-JI dedicate my work to the field of tea. I explore it through daily practice, so that the experience is transformed into concrete and useful qualities for the pieces. I handcraft all styles of teapots, but also kettles, braziers, tea jars, tea bowls... with a sense of detail and the pleasure of precision, so that you can fully enjoy your "tea moments".
+I dedicate my work to the field of tea. I explore it through daily practice, so that the experience is transformed into concrete and useful qualities for the pieces. I handcraft all styles of teapots, but also kettles, braziers, tea jars, tea bowls... with a sense of detail and the pleasure of precision, so that you can fully enjoy your "tea moments".
 
 The road I have travelled is magnificent, both in terms of the material and the human aspect. The road ahead is inspiring, full of promise and mystery. I embark on it with serenity and desire.
 Thank you to all of you who trust me. With all my enthusiasm.
