@@ -51,7 +51,7 @@ This is a clay known for its resistance to thermal shocks. It has been manufactu
 
 This is a very soft reconstruction sandstone (6.5% porosity). The oxides of which it is composed are: iron 4.65% and titanium 1.42%. When fired, this clay takes on a reddish colour and a slightly rough appearance. I use this clay to make tea jars for the conservation of puerh and red teas.
 
-## My glazes
+## Glazes
 
 ![bols](assets/media/yunomi-bols-à-thé-émaillés.jpg)
 
